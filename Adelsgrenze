@@ -1,20 +1,20 @@
-var playerNames = "wir eben;Onkelzclan;Steinibach;mesocool;LassmirandaDennsiewillja;Castro;jodave1;DieGallier;DickerFetterPanda;Farm;walt;Karnalos;wullieur;Nickname forgiven;Accountname.;per lumen;Muten Roshi;Kinzao131;sommergenießen;KrakenGameplay10;master jpm;skullwarrior001;doenerkiller;M1lano0;FelixEngelbrecht16;-P4L-;BruderSamuel;Broxas;JustAmazingJason;attila53;Maxymillion;Smokerclubmember;TopCrew;Pfanner;3XC3L;Gejoooo;Gujanale;awakee;ReinerHumbuk;Franzbibe;xTeRaNx;Mr. SmartGuy;Aweda014;ShuTingh;Tresdin;Mr.Nobody;Fruchtling;Cash;goddy;Xer0x1337;Rainer Zuf4ll;HallofFame;futschikato;XOXO;Ursa";
+//var playerNames = "wir eben;Onkelzclan;Steinibach;mesocool;LassmirandaDennsiewillja;Castro;jodave1;DieGallier;DickerFetterPanda;Farm;walt;Karnalos;wullieur;Nickname forgiven;Accountname.;per lumen;Muten Roshi;Kinzao131;sommergenießen;KrakenGameplay10;master jpm;skullwarrior001;doenerkiller;M1lano0;FelixEngelbrecht16;-P4L-;BruderSamuel;Broxas;JustAmazingJason;attila53;Maxymillion;Smokerclubmember;TopCrew;Pfanner;3XC3L;Gejoooo;Gujanale;awakee;ReinerHumbuk;Franzbibe;xTeRaNx;Mr. SmartGuy;Aweda014;ShuTingh;Tresdin;Mr.Nobody;Fruchtling;Cash;goddy;Xer0x1337;Rainer Zuf4ll;HallofFame;futschikato;XOXO;Ursa";
 
 // x1, y1, x2, y2, map, color, px, mini, minicolor, minipx
 // 515, 554, 484, 554, true, "red", 5, true, "red", 3
 let linien = [
 
-[449.66, 590.12, 449.66, 654.79, true, "white", 5, true, "white", 3],
-[455.07, 599.93, 455.07, 649.83, true, "white", 5, true, "white", 3],
-[462.13, 600.00, 462.13, 649.64, true, "white", 5, true, "white", 3],
-[469.09, 599.98, 469.09, 649.56, true, "white", 5, true, "white", 3],
-[476.09, 600.06, 476.17, 649.64, true, "white", 5, true, "white", 3],
-[483.09, 600.14, 483.09, 649.48, true, "white", 5, true, "white", 3],
-[490.01, 600.06, 490.01, 649.56, true, "white", 5, true, "white", 3],
-[497.01, 599.98, 497.01, 649.48, true, "white", 5, true, "white", 3],
-[504.09, 600.06, 504.09, 649.81, true, "white", 5, true, "white", 3],
-[511.01, 600.14, 511.01, 649.56, true, "white", 5, true, "white", 3],
-[518.01, 600.14, 518.01, 649.64, true, "white", 5, true, "white", 3],
+[552, 516, 554, 514, true, "white", 5, true, "white", 3],
+//[455.07, 599.93, 455.07, 649.83, true, "white", 5, true, "white", 3],
+//[462.13, 600.00, 462.13, 649.64, true, "white", 5, true, "white", 3],
+//[469.09, 599.98, 469.09, 649.56, true, "white", 5, true, "white", 3],
+//[476.09, 600.06, 476.17, 649.64, true, "white", 5, true, "white", 3],
+//[483.09, 600.14, 483.09, 649.48, true, "white", 5, true, "white", 3],
+//[490.01, 600.06, 490.01, 649.56, true, "white", 5, true, "white", 3],
+//[497.01, 599.98, 497.01, 649.48, true, "white", 5, true, "white", 3],
+//[504.09, 600.06, 504.09, 649.81, true, "white", 5, true, "white", 3],
+//[511.01, 600.14, 511.01, 649.56, true, "white", 5, true, "white", 3],
+//[518.01, 600.14, 518.01, 649.64, true, "white", 5, true, "white", 3],
 
 
 
