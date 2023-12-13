@@ -21,7 +21,7 @@ let linien = [
 ];
 
 let texte = [
-["fly09", 577, 468],
+["fly9", 577, 468],
 ["Mehnersmösen", 583, 475],
 ["Genie?", 586, 482],
 ["F1r3sh0t", 588, 489],
