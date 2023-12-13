@@ -36,5 +36,6 @@ let texte = [
 ["Schoofi", 587, 549],
 ["Thilde", 584, 556],
 ["Wachtelei03", 582, 561],
-["Rebash?", 579, 566]
+["Rebash?", 579, 566],
+["Kiepa, Suea", 576, 573]
 ];
