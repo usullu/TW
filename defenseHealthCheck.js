@@ -79,7 +79,7 @@ var scriptConfig = {
 };
 
 $.getScript(
-    `https://twscripts.dev/scripts/twSDK.js?url=${document.currentScript.src}`,
+    `https://raw.githubusercontent.com/usullu/TW/main/defenseHealthCheck.js`,
     async function () {
         // Initialize Library
         await twSDK.init(scriptConfig);
