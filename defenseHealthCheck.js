@@ -24,7 +24,7 @@ var scriptConfig = {
         name: 'Defense Health Check',
         version: 'v1.1.3',
         author: 'RedAlert',
-        authorUrl: 'https://twscripts.dev/',
+        authorUrl: 'https://githubusercontent.com/',
         helpLink:
             'https://forum.tribalwars.net/index.php?threads/defense-health-check.289880/',
     },
